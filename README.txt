@@ -1,8 +1,8 @@
 # GraceTheAnalyst Portfolio Website
 
-Welcome to my personal portfolio website, built and hosted using **GitHub Pages**. This platform showcases my projects, technical skills, and professional journey in **Data Science**, **Data Analytics**, and **Software Development**.
+Welcome to my personal portfolio website, built and hosted using GitHub Pages. This platform showcases my projects, technical skills, and professional journey in Data Science, Data Analytics, and Software Development.
 
-Through this website, I highlight projects ranging from **machine learning applications** and **data analysis dashboards** to **web development solutions**, demonstrating my ability to transform data and ideas into impactful digital products.
+Through this website, I highlight projects ranging from machine learning applications and data analysis dashboards to web development solutions, demonstrating my ability to transform data and ideas into impactful digital products.
 
 ## Features
 - Responsive and interactive portfolio website
