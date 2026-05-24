@@ -1,32 +1,25 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# GraceTheAnalyst Portfolio Website
 
+Welcome to my personal portfolio website, built and hosted using **GitHub Pages**. This platform showcases my projects, technical skills, and professional journey in **Data Science**, **Data Analytics**, and **Software Development**.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Through this website, I highlight projects ranging from **machine learning applications** and **data analysis dashboards** to **web development solutions**, demonstrating my ability to transform data and ideas into impactful digital products.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Features
+- Responsive and interactive portfolio website
+- Project showcase with detailed descriptions
+- Technical skills and tools overview
+- Contact and professional profile links
+- Hosted online using **GitHub Pages**
 
-(* = not included)
+## Live Website
+🔗 [Visit My Portfolio](https://acingace.github.io/GraceTheAnalyst.github.io/#)
 
-AJ
-aj@lkn.io | @ajlkn
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
+---
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This portfolio reflects my passion for building innovative solutions, solving real-world problems with technology, and continuously growing as a tech professional.
